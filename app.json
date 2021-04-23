@@ -1,0 +1,12 @@
+{
+  "name": "tr",
+  "displayName": "tr",
+  "expo": {
+    "name": "tr",
+    "slug": "tr",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
